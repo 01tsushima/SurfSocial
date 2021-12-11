@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SurfSocial</string>
+    <string name="workers">сотрудники</string>
+    <string name="projects">проекты</string>
+    <string name="about">о приложении</string>
+    <string name="team">%1$d members</string>
+</resources>
